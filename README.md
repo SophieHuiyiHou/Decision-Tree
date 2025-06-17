@@ -29,3 +29,16 @@ This project demonstrates how to build and evaluate a decision tree classifier u
 ```bash
 git clone https://github.com/your-username/decision-tree-project.git
 cd decision-tree-project
+```
+
+### 2. Install required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Launch the notebook:
+
+```bash
+jupyter notebook "Decision Tree.ipynb"
+```
